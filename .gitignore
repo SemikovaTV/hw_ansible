@@ -1,0 +1,13 @@
+.ansible
+.bash_history
+.bashrc
+.cache
+.config
+.docker
+.git
+.gitconfig
+.local
+.profile
+.ssh
+terraform.d
+.wget-hsts
