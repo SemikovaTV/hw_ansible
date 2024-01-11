@@ -1,0 +1,24 @@
+[cmdline]
+0='
+1=
+
+[Dir Hist New Right Panel]
+0=/home/stv/terraform_hw
+1=/home/stv/ter-homeworks/01/src
+2=/home/stv/hw_ansible/playbook
+
+[Dir Hist New Left Panel]
+0=/home/stv/terraform_hw
+1=/root
+2=/
+3=/home
+4=/home/stv/ter-homeworks/01/src
+5=/home/stv/ter-homeworks/01/src/.terraform
+6=/home/stv/ter-homeworks/01/src/.terraform/providers
+7=/home/stv/ter-homeworks/01/src/.terraform/providers/registry.terraform.io
+8=/home/stv/hw_ansible/playbook/group_vars
+9=/home/stv/hw_ansible/playbook/group_vars/all
+10=/home/stv/hw_ansible/playbook/inventory
+11=/home/stv/hw_ansible/playbook
+12=/home/stv/hw_ansible
+13=/home/stv
